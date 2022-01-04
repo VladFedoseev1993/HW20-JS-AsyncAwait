@@ -38,7 +38,7 @@ async function getResult() {
 getResult();
 
 
-//5.5
+//6
 async function getUser() {
   return {
     name: 'Vic',
